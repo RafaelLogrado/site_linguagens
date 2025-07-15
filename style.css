@@ -95,10 +95,74 @@ a{
     margin: 15px;
 }
 
-.azul{
+.ciber{
     background-color: rgb(74, 74, 255);
     padding: 8px;
     border-radius: 8px;
     color: white;
     border: 3px solid black;
+}
+
+.cidadania{
+    background-color: rgb(41, 41, 41);
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+    border: 3px solid black;
+}
+
+.educacao{
+    background-color: whitesmoke;
+    padding: 8px;
+    border-radius: 8px;
+    color: rgb(114, 76, 76);
+    border: 3px solid grey;
+}
+
+.edalimentar{
+    background-color: rgb(247, 233, 216);
+    padding: 8px;
+    border-radius: 8px;
+    color: orangered;
+    border: 3px solid rgb(158, 118, 103);
+}
+
+.transito{
+    background-color: rgb(235, 221, 98);
+    padding: 8px;
+    border-radius: 8px;
+    color: rgb(32, 32, 2);
+    border: 3px solid rgb(165, 14, 14);
+}
+
+.etica{
+    background-color: whitesmoke;
+    padding: 8px;
+    border-radius: 8px;
+    color: rgb(16, 158, 111);
+    border: 3px solid rgb(59, 187, 112)
+}
+
+.meioambiente{
+    background-color: rgb(6, 41, 10);
+    padding: 8px;
+    border-radius: 8px;
+    color: rgb(47, 255, 116);
+    border: 3px solid rgb(47, 255, 116);
+}
+
+.meioambiente2{
+    background-color: whitesmoke;
+    padding: 8px;
+    border-radius: 8px;
+    color: rgb(55, 7, 87);
+    border: 3px solid rgb(202, 84, 163);
+}
+
+.pluralidade{
+    background-color: rgb(66, 114, 170);
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+    border: 3px solid rgb(48, 48, 48);
 }
